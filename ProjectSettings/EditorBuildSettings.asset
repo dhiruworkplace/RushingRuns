@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/UnityAnalytics.unity
+    guid: e26800b9b70d548fa908236806348257
+  - enabled: 1
     path: Assets/RushingRuns/_Scenes/First.unity
     guid: 6da52dcfefb3d2848a97e230b67ac266
   - enabled: 1
