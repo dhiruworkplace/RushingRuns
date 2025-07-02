@@ -12,7 +12,7 @@ public class LevelGenerator : Singleton<LevelGenerator>
         if (index > levelDatas.Length - 1)
             index = GetRandomLevel();
 
-        currentLevelData = levelDatas[index];
+        currentLevelData = levelDatas[0];
         Instantiate(currentLevelData.levelPrefab);
         PlayerPrefs.SetInt("LevelIndex", index);
 

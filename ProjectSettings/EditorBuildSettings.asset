@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_GameSource/_Scenes/MainGame.unity
+    path: Assets/RushingRuns/_Scenes/First.unity
+    guid: 6da52dcfefb3d2848a97e230b67ac266
+  - enabled: 1
+    path: Assets/RushingRuns/_Scenes/Home.unity
+    guid: 4c268138034eeb14da7a75285a32941f
+  - enabled: 1
+    path: Assets/RushingRuns/_Scenes/Levels.unity
+    guid: 860759e03bf971d43b85c16bce21c77e
+  - enabled: 1
+    path: Assets/RushingRuns/_Scenes/Game.unity
     guid: 8a10e965866a61e448ed4b9de6d8a981
   m_configObjects: {}
